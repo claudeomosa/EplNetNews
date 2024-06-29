@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePress", "ThePress\ThePre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsScraper", "NewsScraper\NewsScraper.csproj", "{9FAF004C-5B82-47A5-9711-349AE6C703EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BroadCaster", "BroadCaster\src\BroadCaster\BroadCaster.csproj", "{8E7200FD-7ED7-40F3-8E01-8D9010F26D72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{9FAF004C-5B82-47A5-9711-349AE6C703EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FAF004C-5B82-47A5-9711-349AE6C703EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FAF004C-5B82-47A5-9711-349AE6C703EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7200FD-7ED7-40F3-8E01-8D9010F26D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7200FD-7ED7-40F3-8E01-8D9010F26D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7200FD-7ED7-40F3-8E01-8D9010F26D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7200FD-7ED7-40F3-8E01-8D9010F26D72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
